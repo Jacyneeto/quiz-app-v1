@@ -1,2 +1,2 @@
 # quiz-app-v1
-Quiz app in React
+Um Quiz APP utilizando as seguintes tecnologias: HTML / CSS / JS / React
